@@ -6,6 +6,7 @@ This program allows to predict the price of stock by hybrid method of analysis o
 - Provide hybrid mode(s); with news sentiment analysis and with historical data only.
 - Provide interactive graphs.
 - Predict and provide the information about the share's status in future.
+- Verbosity option for debugging and intermediate information.
 
 
 ## Installation
@@ -33,6 +34,7 @@ pip install -r requirements.txt
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
+Please make sure to update tests as appropriate.
 
 ## License
 
