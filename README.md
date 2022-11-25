@@ -1,4 +1,4 @@
-# Market-Analysis# Stock Market Analysis
+Stock Market Analysis
 
 This program allows to predict the price of stock by hybrid method of analysis of historical dataset and current sentiments by news analysis.
 
